@@ -1,2 +1,2 @@
 # OnlyLays
-Betting app the only allows parlays
+Betting app that only allows parlays
